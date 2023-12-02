@@ -90,6 +90,7 @@ color: #E0B612;
 .notify {
     color: #fff;
     text-align: center;
+    display: none;
     margin: 0 auto;
     background: #222436;
     margin-top: 20px;
